@@ -4,7 +4,7 @@
   font-family: 'Open Sans', sans-serif;
   height: 100%;
   margin: 0;
-  background-color: #e6f4ff;
+  background-color: #FFFFFF;
 }
 .box {
     width: 100%;
@@ -63,7 +63,8 @@
  font-weight: 400;
  font-size: 14px;
  line-height: 24px;
-}.first-character {
+}
+.first-character {
  font-weight: 400;
  float: left;
  font-size: 84px;
@@ -73,17 +74,25 @@
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
+.cafe {
+	color: #985cff
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.sell {
+	color: #FF69B4
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.menu {
+	color: #FFFF00
+	font-family: 'Source Sans Pro', sans-serif;
+}
 #landing .title {
  background: white;
  padding: 60px;
  margin: 0 auto;
  text-align: center;
 }
-
 #landing .title h1 {
-color: dark-red;
-font-family: helvetica;
-} 
  font-size: 35px;
  letter-spacing: 8px;
 }
@@ -155,12 +164,12 @@ font-family: helvetica;
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-break {
+#landing .line-break2 {
  background: linear-gradient(60deg, #FF69B4, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
 }
-#landing .line-break {
+#landing .line-break3 {
  background: linear-gradient(60deg, #FFFF00, #ffd700, #dc143c);
  width: 100%;
  margin: 0 auto;
@@ -170,18 +179,6 @@ font-family: helvetica;
   padding: 40px;
   width: 620px;
  }
-}
-.cafe {
-	color: #985cff
-	font-family: 'Source Sans Pro', sans-serif;
-}
-.sell {
-	color: #FF69B4
-	font-family: 'Source Sans Pro', sans-serif;
-}
-.menu {
-	color: #FFFF00
-	font-family: 'Source Sans Pro', sans-serif;
 }
 @media screen and (max-width: 959px) and (min-width: 768px) {
  #flat .block {
