@@ -75,15 +75,15 @@
  font-family: 'Source Sans Pro', sans-serif;
 }
 .cafe {
-	color: brown
+	color: #008000
 	font-family: 'Source Sans Pro', sans-serif;
 }
 .sell {
-	color: black
+	color: #9ACD32
 	font-family: 'Source Sans Pro', sans-serif;
 }
 .menu {
-	color: gray
+	color: #228B22
 	font-family: 'Source Sans Pro', sans-serif;
 }
 #landing .title {
