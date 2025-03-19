@@ -1,4 +1,3 @@
-
 function check() {
 
   var checkBox = document.getElementById("checbox");
